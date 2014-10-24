@@ -61,7 +61,7 @@ exports.createProjectDict = function(xml_object, logDict){
         });
 
     });
-    console.log(require('util').inspect(projectDict, false, null))
+    //console.log(require('util').inspect(projectDict, false, null))
     return projectDict;
     /*var projectName = null;
     var this_entry = xml_list.entry[0];

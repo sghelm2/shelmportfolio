@@ -19,7 +19,7 @@ async.parallel([
             parser.parseString(data, function (err, result) {
                 svn_log = result;
                 //console.log(util.inspect(svn_log, false, null));
-                console.log('Done');
+                //console.log('Done');
                 callback(0, null)
             });
         });
@@ -29,7 +29,7 @@ async.parallel([
             parser.parseString(data, function (err, result) {
                 svn_list = result;
                 //console.log(util.inspect(result, false, null));
-                console.log('Done');
+                //console.log('Done');
                 callback(0, null)
             });
         });
