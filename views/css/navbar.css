@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: mintcream;
+    color: rgb(85, 85, 85);
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 100;
+}
+
+.headerwrapper {
+    width: 100%;
+    height: 300px;
+}
+.topimg {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    height: 100%;
+    background-image: url('../img/flower2.jpg');
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+.navbarwrapper {
+    width: 100%;
+}
+
+.navbar ul {
+    list-style-type: none;
+}
+
+.headerwrapper {
+    width: 100%;
+}
+
+.navbarwrapper {
+    width: 100%;
+    top: 30px;
+    position: absolute;
+}
+.navbar {
+    padding-left: 2%;
+    height: 30px;
+}
+
+.navbar li {
+    padding: 8px;
+    background: none;
+    display: inline-block;
+}
+.navbar li a {
+    padding: 10px;
+    text-decoration: none;
+    color: mintcream;
+    background: none;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.navbar li a:hover{
+    background: none;
+}
+
+
+.navbar li:hover a {
+    background: none;
+    border: 2px mintcream solid;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.projectwrapper {
+    width: 100%;
+    clear:both;
+}
+
+.pagetitle {
+    padding: 20px;
+    font-size: 70px;
+    font-weight: 100;
+}
+

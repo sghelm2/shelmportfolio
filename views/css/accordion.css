@@ -1,0 +1,7 @@
+.accordion .ui-accordion-header{
+    background:mintcream;
+}
+
+.folder .accordion, .ui-accordion, .ui-widget {
+    background: mintcream;
+}

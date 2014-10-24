@@ -1,0 +1,2074 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7462">
+<author>sghelm2</author>
+<date>2014-10-17T17:39:13.045613Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/run.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates/cities.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates/edge.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/json/test_metros.json</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Structures/Node.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/UI.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Structures/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/json/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Test/EdgeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/Main.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Test/ParseTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Structures/Node.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates/addCity.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/json/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/UserInput.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/scopes</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/CSAir1.iml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates/routes.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates/addCity.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Test/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Structures/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Structures/Graph.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates/home.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/data.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates/base.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/json/test_routes.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates/routes.html</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/views.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/json/map_data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Structures/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Structures/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Test/NodeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates/city.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/Main.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/json/test_routes.json</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Test/RouteTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates/routesAndCities.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/json/map_data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates/template.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Structures/Edge.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/forms.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Test</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/templates/editCity.html</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Structures</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/view.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/website.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Run/data.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Structures/Graph.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/run.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Website/config.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates/base.html</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Structures/Edge.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Structures</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Website/templates/cities.html</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/Test/GraphTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/Run/UserInput.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.2/CSAir1/json/test_metros.json</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6913">
+<author>sghelm2</author>
+<date>2014-10-14T00:58:58.735736Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/Main.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Test/ParseTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/json/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/json/map_data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Test/NodeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Structures/Node.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.3</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Test/GraphTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Test/EdgeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Structures/Graph.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Structures/Edge.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.3/Test</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.3/.idea</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.3/Structures</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/json/test_metros.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/UserInput.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/data.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/json/test_routes.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/CSAir.iml</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.3/Run</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Test/RouteTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Run/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Test/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Structures/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/Structures/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.3/json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.3/.idea/vcs.xml</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6886">
+<author>sghelm2</author>
+<date>2014-10-13T06:16:59.626129Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Run/Main.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Test/ParseTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/json/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/json/map_data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Run/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Test/NodeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Structures/Node.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Run/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Run/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Test/GraphTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Test/EdgeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Structures/Graph.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Structures/Edge.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Test</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Structures</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/json/test_metros.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Run/UserInput.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/json/test_routes.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/CSAir.iml</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Run</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Test/RouteTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Run/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Test/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Structures/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/Structures/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.2/CSAir/.idea/vcs.xml</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6858">
+<author>sghelm2</author>
+<date>2014-10-12T04:14:48.122611Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Structures/Edge.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Test</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Run/Main.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Test/ParseTest.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Structures</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/json/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Run/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Test/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Run/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Test/GraphTest.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Structures/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Structures/Graph.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/json/map_data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/json/test_metros.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Test/NodeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Structures/Node.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/json/test_routes.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/CSAir.iml</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Run</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Test/RouteTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Run/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Run/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Structures/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/Test/EdgeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1.1/CSAir/.idea/workspace.xml</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6805">
+<author>sghelm2</author>
+<date>2014-10-11T01:50:17.088521Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/json/map_data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/json/test_metros.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Test/NodeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Structures/Node.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/json/test_routes.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Test/RouteTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1/Run</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Run/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Run/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Structures/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Test/EdgeTest.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Structures/Edge.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Run/Main.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1/Test</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Test/ParseTest.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1/Structures</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Run/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Run/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Test/__init__.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Test/GraphTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Structures/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.1/json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.1/Structures/Graph.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6103">
+<author>sghelm2</author>
+<date>2014-10-03T20:13:49.016446Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/RouteTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/Graph.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/GraphTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/Edge.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/EdgeTest.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.0</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/ParseTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/Main.py</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir_2.0/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/Node.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/NodeTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir_2.0/map_data.json</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5878">
+<author>sghelm2</author>
+<date>2014-10-02T22:14:18.536652Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/Parse.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/CmdLine.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/Node.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/map_data.json</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/CSAir/.idea</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/Route.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/GraphTest.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/Graph.py</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/CSAir/Edge.py</path>
+</paths>
+<msg>sending CSAir</msg>
+</logentry>
+<logentry
+   revision="5447">
+<author>sghelm2</author>
+<date>2014-09-29T21:03:16.441707Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Board.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Player.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GUI/GUI.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5439">
+<author>sghelm2</author>
+<date>2014-09-29T16:57:32.840501Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Princess.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Board.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Player.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GUI/GUI.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5427">
+<author>sghelm2</author>
+<date>2014-09-29T01:15:19.194633Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Rook.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Board.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackPrincess.png</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Queen.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Player.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whitePrincess.png</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GUI/GUI.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackGrasshopper.png</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Knight.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Princess.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/King.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whiteGrasshopper.png</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Game/Move.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Grasshopper.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Game.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/GameTest/GameTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/img/Thumbs.db</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4588">
+<author>sghelm2</author>
+<date>2014-09-20T18:08:23.988327Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Board.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GUI/GUI.java</path>
+</paths>
+<msg>updated</msg>
+</logentry>
+<logentry
+   revision="4417">
+<author>sghelm2</author>
+<date>2014-09-19T18:22:46.262591Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackQueen.png</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/src/img</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whiteQueen.png</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Rook.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackKnight.png</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackBishop.png</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Queen.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackKing.png</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whiteKnight.png</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Player.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whiteKing.png</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackPawn.png</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Piece/Grasshopper.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/PieceTest/GrasshopperTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whitePawn.png</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/blackRook.png</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/whiteRook.png</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Board.java</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/src/GUI</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/GUI/GUI.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Knight.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/PieceTest/PrincessTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Piece/Princess.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PieceTest/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece/King.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/img/Thumbs.db</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GameTest/GameTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3533">
+<author>sghelm2</author>
+<date>2014-09-17T23:01:38.034650Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Player.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Rook.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/Piece/Rook.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/RookTest.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/PieceTest/RookTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Queen.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/Piece/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/documentation</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/QueenTest.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/PieceTest/QueenTest.java</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/src/PieceTest</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Player.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/Game/Player.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Rook.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/documentation/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/src/Game</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/src/GameTest</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Pawn.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/Piece/Pawn.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/PawnTest.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/PieceTest/PawnTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/BoardTest.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/GameTest/BoardTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Board.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/Game/Board.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Pawn.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Bishop.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/Piece/Bishop.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Knight.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/Piece/Knight.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/BishopTest.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/PieceTest/BishopTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/KnightTest.java"
+   copyfrom-rev="3403"
+   action="A">/sghelm2/ChessGame/src/PieceTest/KnightTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Piece.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/Piece/Piece.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Queen.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/King.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/Piece/King.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/KingTest.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/PieceTest/KingTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/GameTest.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/GameTest/GameTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/sghelm2/ChessGame/src/Game.java"
+   copyfrom-rev="3432"
+   action="A">/sghelm2/ChessGame/src/Game/Game.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Knight.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Bishop.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/Board.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/BoardTest.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/King.java</path>
+<path
+   kind="file"
+   action="D">/sghelm2/ChessGame/src/KingTest.java</path>
+</paths>
+<msg>Decomposed and added extra chess pieces and documentation</msg>
+</logentry>
+<logentry
+   revision="3432">
+<author>sghelm2</author>
+<date>2014-09-17T06:40:55.905171Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Knight.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/King.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/KingTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3403">
+<author>sghelm2</author>
+<date>2014-09-17T04:38:54.178458Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Player.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/Pawn.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/PawnTest.java</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/src/Piece</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/Rook.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/RookTest.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/Queen.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/Bishop.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/Knight.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Board.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/KingTest.java</path>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/King.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2909">
+<author>sghelm2</author>
+<date>2014-09-12T15:46:24.582188Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece.java</path>
+</paths>
+<msg>Everything but working inCheckOnMove() and game loop!</msg>
+</logentry>
+<logentry
+   revision="2907">
+<author>sghelm2</author>
+<date>2014-09-12T15:42:16.544038Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/KingTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2820">
+<author>sghelm2</author>
+<date>2014-09-12T07:43:13.259896Z</date>
+<paths>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2817">
+<author>sghelm2</author>
+<date>2014-09-12T07:23:05.554524Z</date>
+<paths>
+<path
+   kind="file"
+   action="R">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/KingTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2806">
+<author>sghelm2</author>
+<date>2014-09-12T06:20:55.033709Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Rook.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Queen.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Knight.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/King.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2696">
+<author>sghelm2</author>
+<date>2014-09-11T22:49:41.284601Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Rook.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Queen.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Knight.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/King.java</path>
+<path
+   kind="file"
+   action="M">/sghelm2/ChessGame/src/KingTest.java</path>
+</paths>
+<msg>Updated with tests</msg>
+</logentry>
+<logentry
+   revision="2390">
+<author>sghelm2</author>
+<date>2014-09-11T06:14:24.123261Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/.classpath</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/.settings</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Game.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/GameTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/.project</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame/src</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Knight.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/Board.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/ChessGame/src/King.java</path>
+</paths>
+<msg>First code commit</msg>
+</logentry>
+<logentry
+   revision="2389">
+<author>sghelm2</author>
+<date>2014-09-11T06:13:48.897901Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sghelm2/ChessGame</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1848">
+<author>sghelm2</author>
+<date>2014-09-05T16:16:05.046477Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/Assignment0/maze.cpp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1767">
+<author>sghelm2</author>
+<date>2014-09-05T05:39:27.061690Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/Assignment0/maze.cpp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1760">
+<author>sghelm2</author>
+<date>2014-09-05T05:33:57.403086Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/Assignment0/maze.cpp</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/Assignment0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1756">
+<author>sghelm2</author>
+<date>2014-09-05T05:26:04.661745Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/javadoc.xml</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/doc/toDoList</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/bin</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/bin/lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/HW0/src</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/HW0/.classpath</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1666">
+<author>sghelm2</author>
+<date>2014-09-05T03:50:46.145245Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/doc/README</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/.settings</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/.project</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/src</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/.classpath</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/doc</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/bin</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/COPYING</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/bin/lanSimulation/Network.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1656">
+<author>sghelm2</author>
+<date>2014-09-05T03:33:58.805128Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/sghelm2/grocery/list3.txt.txt</path>
+</paths>
+<msg>discovered that i want to be vegetarian</msg>
+</logentry>
+<logentry
+   revision="1654">
+<author>sghelm2</author>
+<date>2014-09-05T03:32:33.005354Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/list3.txt.txt</path>
+</paths>
+<msg>List of meats</msg>
+</logentry>
+<logentry
+   revision="1653">
+<author>sghelm2</author>
+<date>2014-09-05T03:30:17.244687Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/grocery/list2.txt.txt</path>
+</paths>
+<msg>emphasize carrots</msg>
+</logentry>
+<logentry
+   revision="1646">
+<author>sghelm2</author>
+<date>2014-09-05T03:25:05.269541Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/grocery/list2.txt.txt</path>
+</paths>
+<msg>emphasize importance of carrots</msg>
+</logentry>
+<logentry
+   revision="1643">
+<author>sghelm2</author>
+<date>2014-09-05T03:23:40.122954Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/grocery/list2.txt.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="1638">
+<author>sghelm2</author>
+<date>2014-09-05T03:22:23.562888Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/grocery/list2.txt.txt</path>
+</paths>
+<msg>Added more important vegetables</msg>
+</logentry>
+<logentry
+   revision="1636">
+<author>sghelm2</author>
+<date>2014-09-05T03:18:59.616977Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/grocery/list2.txt.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="1633">
+<author>sghelm2</author>
+<date>2014-09-05T03:16:50.902843Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sghelm2/grocery/list1.txt.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1494">
+<author>sghelm2</author>
+<date>2014-09-05T00:15:06.570170Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/list1.txt.txt</path>
+<path
+   kind="file"
+   action="A">/sghelm2/grocery/list2.txt.txt</path>
+<path
+   kind="dir"
+   action="A">/sghelm2/grocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="142">
+<author>root</author>
+<date>2014-09-02T17:45:40.272035Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sghelm2</path>
+</paths>
+<msg>created directory sghelm2</msg>
+</logentry>
+</log>

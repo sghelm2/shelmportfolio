@@ -1,0 +1,77 @@
+//
+   Created by Sarah on 10/23/2014.
+
+doctype html
+html
+    include header
+    body
+        include top
+        .projectwrapper
+            h1.pagetitle Projects
+            each project, title in projects
+                .project.accordion
+                    h3!='Project name: ' + title
+                    div
+                        p!='date: ' + project.date
+                        p!='version: ' + project.version
+                        each folder, name in project.folders
+                            .folder.accordion
+                                if folder.kind == "dir"
+                                    h3!=name
+                                    div
+                                        each folder1, name1 in folder.folders
+                                            .accordion
+                                                if folder1.kind == "file"
+                                                    h3!=name1
+                                                    div
+                                                        p!='revision: ' + folder1.version.revision
+                                                        p!='author: ' + folder1.version.author
+                                                        p!='date: ' + folder1.version.date
+                                                        p!='type: ' + folder1.type
+                                                        if folder1.type == 'pdf'
+                                                            embed(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder1.path type='application/pdf' height = 300 width = 400)
+                                                        else if folder1.type == 'png'
+                                                            img(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder1.path)
+                                                        else if folder1.type == 'exe' || folder1.type == 'class' || folder1.type == 'db'
+                                                            //do nothing
+                                                        else
+                                                            iframe(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder1.path height = 300 width = 400)
+                                                if folder1.kind == "dir"
+                                                    h3!=name1
+                                                    div
+                                                        each folder2, name2 in folder1.folders
+                                                            .accordion
+                                                                if folder2.kind == "file"
+                                                                    h3!=name2
+                                                                    div
+                                                                        p!='revision: ' + folder2.version.revision
+                                                                        p!='author: ' + folder2.version.author
+                                                                        p!='date: ' + folder2.version.date
+                                                                        p!='type: ' + folder2.type
+                                                                        if folder2.type == 'pdf'
+                                                                            embed(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder2.path type='application/pdf' height = 300 width = 400)
+                                                                        else if folder2.type == 'png'
+                                                                            img(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder2.path)
+                                                                        else if folder2.type == 'exe' || folder2.type == 'class' || folder2.type == 'db'
+                                                                            //do nothing
+                                                                        else
+                                                                            iframe(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder2.path height = 300 width = 400)
+                                                                if folder2.kind == "dir"
+                                                                    h3!=name2
+                                                                    div
+                                if folder.kind == "file"
+                                    h3!=name
+                                    div
+                                        p!='revision: ' + folder.version.revision
+                                        p!='author: ' + folder.version.author
+                                        p!='date: ' + folder.version.date
+                                        p!='type: ' + folder.type
+                                        if folder.type == 'pdf'
+                                            embed(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder.path type='application/pdf' height = 300 width = 400)
+                                        else if folder.type == 'png'
+                                            img(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder.path)
+                                        else if folder.type == 'exe' || folder.type == 'class' || folder.type == 'db'
+                                            //do nothing
+                                        else
+                                            iframe(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/sghelm2/'+folder.path height = 300 width = 400)
+        script(src='js/accordion.js')
