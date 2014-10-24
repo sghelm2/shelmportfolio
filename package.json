@@ -1,9 +1,16 @@
 {
   "name": "portfolio",
   "version": "0.0.0",
-  "private": true,
+  "main": "app.js",
+  "engines": {
+    "node": "0.10.32"
+  },
   "scripts": {
     "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sghelm2/shelmportfolio"
   },
   "dependencies": {
     "express": "~4.9.0",
